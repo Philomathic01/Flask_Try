@@ -1,2 +1,2 @@
 pip install flask 
-pip requests
+pip install requests
